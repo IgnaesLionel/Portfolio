@@ -1,0 +1,35 @@
+/* GENERAL */
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: bold;
+}
+
+
+img{
+  max-width: 100%
+  height: auto;
+}
+
+section .heading{
+  text-align: center;
+  padding-bottom: 40px;
+
+}
+
+/* About */
+
+#about{
+  padding-top:  100px;
+  background-color: #42CAFD
+}
+
+.profile-picture {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#about
